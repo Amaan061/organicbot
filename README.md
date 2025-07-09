@@ -72,7 +72,6 @@ Use the **Dialogflow simulator** (right panel) to test questions like:
 
 - `OrganicBot.zip`: Dialogflow agent with intents, entities, and responses
 - `README.md`: Project documentation
-- `demo_transcript.txt`: Sample interaction demo
 
 ---
 
