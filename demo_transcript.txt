@@ -1,0 +1,20 @@
+
+---
+
+## 📄 `demo_transcript.txt`
+
+```txt
+User: Hello!
+Bot: Hello! I’m your Organic Farming Assistant. Ask me anything about soil, pests, or composting.
+
+User: How do I improve soil fertility?
+Bot: To improve soil fertility, use crop rotation with legumes and apply compost or green manure.
+
+User: What natural ways to control pests?
+Bot: For pest control, use neem-oil sprays, Bacillus thuringiensis, or encourage ladybugs and other predatory insects.
+
+User: What is crop rotation?
+Bot: Crop rotation helps with soil health. Try rotating root crops, legumes, and leafy crops each season.
+
+User: How can I compost farm waste?
+Bot: You can compost using green manure, farm waste, or vermicomposting with earthworms.
