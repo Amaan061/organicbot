@@ -1,49 +1,41 @@
-# OrganicBot – Conversational AI for Organic Farming
+# OrganicBot – Dialogflow Conversational AI for Organic Agriculture
 
-A simple Dialogflow chatbot to help farmers with organic agriculture topics like soil fertility, pest control, crop rotation, and composting.
+This project is a simple Dialogflow chatbot to help farmers with common organic agriculture queries.
 
 ---
 
 ## 🚀 Features
 
-- Understands questions on:
+- Answers questions about:
   - Soil Fertility
   - Pest Control
   - Crop Rotation
   - Composting Methods
-- Provides short, useful, farmer-friendly advice
-- Built using Google Dialogflow Essentials
+- Detects entities like crop names, pest names, season, and duration.
+- Built using Dialogflow Essentials.
 
 ---
 
-## 🛠 Setup Instructions
+## 🛠️ Setup Instructions
 
-### 1. Open Dialogflow Console
-Go to [Dialogflow Console](https://dialogflow.cloud.google.com/)
-
-### 2. Create Agent (if you haven’t)
-- Click **Create Agent**
-- Agent name: `OrganicBot`
-- Language: English
-- Time zone: Select your region
-
-### 3. Import Project ZIP
-- Click ⚙️ Settings next to the agent name
-- Go to **Export and Import**
-- Click **Import from ZIP**
-- Upload `OrganicBot.zip` file
+1. Go to [Dialogflow Console](https://dialogflow.cloud.google.com/)
+2. Click the ⚙️ gear icon on the left of the agent list
+3. Choose `Export and Import` > `Import from ZIP`
+4. Upload `OrganicBot.zip` from this repo
 
 ---
 
-## 🧪 How to Test
+## 💬 Sample Questions to Test
 
-Use the **Test Console** on the right side of Dialogflow.
+You can try asking the bot:
 
-Try these examples:
+- "How do I improve soil fertility?"
+- "What are natural ways to control pests like aphids?"
+- "Which composting method works best in summer?"
+- "Should I rotate crops after tomatoes?"
+- "How long does composting take?"
 
-```plaintext
-Hello!
-How do I improve soil fertility?
-What natural ways to control pests?
-Tell me about composting
-Why should I rotate crops?
+---
+
+## 📁 Project Structure
+

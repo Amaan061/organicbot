@@ -1,20 +1,14 @@
-
----
-
-## 📄 `demo_transcript.txt`
-
-```txt
-User: Hello!
-Bot: Hello! I’m your Organic Farming Assistant. Ask me anything about soil, pests, or composting.
-
 User: How do I improve soil fertility?
 Bot: To improve soil fertility, use crop rotation with legumes and apply compost or green manure.
 
-User: What natural ways to control pests?
-Bot: For pest control, use neem-oil sprays, Bacillus thuringiensis, or encourage ladybugs and other predatory insects.
+User: What natural pest controls can I use?
+Bot: For pest control, encourage predatory insects (e.g., ladybugs), and use neem-oil sprays or Bacillus thuringiensis.
 
-User: What is crop rotation?
-Bot: Crop rotation helps with soil health. Try rotating root crops, legumes, and leafy crops each season.
+User: Which composting method is best in summer?
+Bot: In summer, vermicomposting or aerobic composting works well due to warm temperatures.
 
-User: How can I compost farm waste?
-Bot: You can compost using green manure, farm waste, or vermicomposting with earthworms.
+User: Should I rotate crops after tomatoes?
+Bot: Yes, rotating tomatoes with non-nightshade crops helps maintain soil health and prevent disease build-up.
+
+User: How long does it take for compost to be ready?
+Bot: Typically, compost is ready in 2–6 months depending on the method and conditions.
